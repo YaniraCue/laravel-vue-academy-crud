@@ -1,0 +1,13 @@
+# Carpetas de dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración local
+.env
+.DS_Store
+
+# Base de datos local
+backend-laravel/database/database.sqlite
+
+# Builds del frontend
+frontend-vue/dist/
